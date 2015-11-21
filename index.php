@@ -18,12 +18,18 @@ Table in change :<br/>
   ?>
 </select>
 <br/><br/>
+Field name in charge :<br/>
+<input type="text" name="field" placeholder="ex : meta_value">
+<br/><br/>
+Field id name :<br/>
+<input type="text" name="field_id" placeholder="ex : id or meta_id">
+<br/><br/>
 Current url segment :<br/>
-<input type="text" name="old_domain" placeholder="http://codepolitan.net">
+<input type="text" name="old_domain" placeholder="ex : http://codepolitan.net">
 <br/><br/>
 Change url segment to :<br/>
-<input type="text" name="domain" placeholder="http://codepolitan.id">
+<input type="text" name="domain" placeholder="ex : http://codepolitan.id">
 <br/><br/>
-<input type="submit" value="Change" placeholder="domain.com">
+<input type="submit" value="Change" placeholder="ex : domain.com">
 
 </form>
